@@ -1,7 +1,7 @@
 ### Olá! Eu sou Piersilvio Orlandini
 
 - 🔭  Atualmente estou em busca da minha primeira oportunidade profissional!
-- 🌱 Atualmente estou aprendendo C++, JavaScript!
+- 🌱 Atualmente estou aprendendo C++, JavaScript, Python!
 <div> 
 
   <a href="https://www.instagram.com/orlandini_1/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
