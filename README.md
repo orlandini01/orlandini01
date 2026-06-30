@@ -1,37 +1,43 @@
-## 👋 Olá! Eu sou Piersilvio Orlandini
+## 👋 Hi! I'm Piersilvio Orlandini
 
-🎓 Estudante de **Sistemas de Informação**  
-📊 Estagiário em **Análise de Dados na ANP (Agência Nacional do Petróleo, Gás Natural e Biocombustíveis)**  
-💻 Desenvolvedor Júnior em formação (Dados | Automação | Software)
-
----
-
-### 💼 Perfil Profissional
-
-Sou estudante de Sistemas de Informação com experiência prática em **análise e organização de dados**, **automação de processos** e **desenvolvimento de sistemas**.
-
-Atuo atualmente como **estagiário na ANP**, onde desenvolvo habilidades analíticas, pensamento lógico e atenção à qualidade dos dados, sempre buscando soluções eficientes e bem estruturadas.
-
-Busco oportunidades como **Desenvolvedor Júnior**, **Analista de Dados Júnior** ou **Desenvolvedor de Automação**, onde eu possa evoluir tecnicamente e contribuir com soluções reais.
+🎓 Information Systems Student  
+📊 Data Analysis Intern at **ANP** (Brazil's National Petroleum, Natural Gas and Biofuels Agency)  
+💻 Junior Developer in training (Data | Automation | Software)
 
 ---
 
-### 🛠️ Tecnologias & Competências
+### 💼 Professional Profile
 
-**Linguagens**
-- 🐍 Python (automação, scripts, análise de dados)
-- ☕ Java (fundamentos e estrutura de dados)
-- 🌐 JavaScript (front-end e back-end com Node.js)
-- 💻 C++ (lógica e fundamentos)
+I'm an Information Systems student with hands-on experience in **data analysis and organization**, **process automation**, and **system development**.
 
-**Ferramentas & Conceitos**
-- Node.js & Express  
-- HTML5 & CSS3  
-- SQL & Banco de Dados Relacionais  
-- Git & GitHub  
-- Automação de Processos (RPA)  
-- Estrutura de Dados  
-- Análise e organização de dados  
+I currently work as a **data intern at ANP**, where I develop analytical skills, logical thinking, and attention to data quality, always aiming for efficient, well-structured solutions.
+
+I'm seeking opportunities as a **Junior Developer**, **Junior Data Analyst**, or **Automation Developer**, where I can grow technically and contribute to real-world solutions — with a long-term goal of working in the European tech market.
+
+---
+
+### 🚀 Featured Project
+
+**[CyberGuard AI](https://github.com/orlandini01/cyberguard-ai)** — A full-stack security log analysis platform built with Python/Streamlit. Includes a multi-format log parser (CSV, JSON, TXT), a rule-based threat detection engine, risk scoring, an interactive dashboard, PDF reporting, and 89+ automated tests.
+
+---
+
+### 🛠️ Technologies & Skills
+
+**Languages**
+- 🐍 Python (automation, scripting, data analysis)
+- ☕ Java (fundamentals and data structures)
+- 🌐 JavaScript (front-end and back-end with Node.js)
+- 💻 C++ (logic and fundamentals)
+
+**Tools & Concepts**
+- Node.js & Express
+- HTML5 & CSS3
+- SQL & Relational Databases
+- Git & GitHub
+- Process Automation (RPA)
+- Data Structures
+- Data analysis and organization
 
 ---
 
@@ -44,22 +50,23 @@ Busco oportunidades como **Desenvolvedor Júnior**, **Analista de Dados Júnior*
 
 ---
 
-### 🌱 Em evolução constante
-- Python aplicado à automação e dados  
-- Desenvolvimento de sistemas  
-- Boas práticas de código e versionamento  
-- Projetos práticos para portfólio  
+### 🌱 Currently Learning
+
+- Python for automation and data
+- System development
+- Clean code and version control best practices
+- Hands-on projects for my portfolio
 
 ---
 
-### 📫 Contato Profissional
+### 📫 Contact
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/piersilvio-orlandini-2ba289269/" target="_blank">
+  <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/pier-orlandini-1112p//" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
 </div>
 
 ---
 
-📌 *Aberto a oportunidades para posições júnior em dados, automação e desenvolvimento de software.*
+📌 *Open to junior-level opportunities in data, automation, and software development — with a focus on the European market.*
