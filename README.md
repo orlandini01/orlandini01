@@ -83,4 +83,3 @@ End-to-end analysis of retail sales data to identify where profit margin is bein
 
 ---
 
-<p align="center">📌 <i>Open to junior-level opportunities in data, automation, and software development — with a focus on the European market.</i></p>
