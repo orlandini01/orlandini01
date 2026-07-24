@@ -18,9 +18,8 @@
 
 I'm an Information Systems student with hands-on experience in **data analysis and organization**, **process automation**, and **system development**.
 
-I currently work as a **Data Analysis Intern at ANP** (Brazil's National Petroleum, Natural Gas and Biofuels Agency), where I develop analytical skills, logical thinking, and attention to data quality — always aiming for efficient, well-structured solutions.
+I currently work as a **Data Analysis Intern at ANP** (Brazil's National Petroleum, Natural Gas and Biofuels Agency), where I develop analytical skills, logical thinking, and attention to data quality, always aiming for efficient, well-structured solutions.
 
-I'm seeking opportunities as a **Junior Developer**, **Junior Data Analyst**, or **Automation Developer**, where I can grow technically and contribute to real-world solutions — with a long-term goal of working in the **European tech market**.
 
 ---
 
@@ -30,7 +29,7 @@ I'm seeking opportunities as a **Junior Developer**, **Junior Data Analyst**, or
 Full-stack security log analysis platform built with Python/Streamlit. Includes a multi-format log parser (CSV, JSON, TXT), a rule-based threat detection engine, risk scoring, an interactive dashboard, PDF reporting, and 89+ automated tests.
 
 **[📊 Retail Sales Margin Analysis](https://github.com/orlandini01/retail-sales-margin-analysis)**
-End-to-end analysis of retail sales data to identify where profit margin is being lost. Uncovered that the Central region operates at nearly half the margin of the West region, and that the Tables category carries above-recommended average discounts — leading to concrete business recommendations, including a discount ceiling and quarterly margin tracking as a KPI.
+End-to-end analysis of retail sales data to identify where profit margin is being lost. Uncovered that the Central region operates at nearly half the margin of the West region, and that the Tables category carries above-recommended average discounts, leading to concrete business recommendations, including a discount ceiling and quarterly margin tracking as a KPI.
 
 ---
 
