@@ -71,7 +71,6 @@ End-to-end analysis of retail sales data to identify where profit margin is bein
 - Python for automation and data
 - System development
 - Clean code and version control best practices
-- Hands-on projects for my portfolio
 
 ---
 
